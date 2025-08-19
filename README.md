@@ -1,5 +1,5 @@
-### Olá! Eu sou o Bernardo Botelho 😄 
- - Desenvolvedor Front-End 💻
+### Olá! Eu sou o Bernardo Botelho 
+ - Estudante de matemática aplicada computacional 💻
 
 ##
 
